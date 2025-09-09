@@ -5,7 +5,7 @@ os = "macos"
 
     [[GAP_pkg_profiling.download]]
     sha256 = "182de6c986f6e2cbed7b4a0b0c6044e669b7faa2d1715b7cb85d541a32ed6c96"
-    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.60200.0+0/GAP_pkg_profiling.v200.60200.0.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v201.60200.0+0/GAP_pkg_profiling.v201.60200.0.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -15,7 +15,7 @@ os = "linux"
 
     [[GAP_pkg_profiling.download]]
     sha256 = "26e704d06d638383dbc2721812586731504a238b25c558b43046e915f3f8ca11"
-    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.60200.0+0/GAP_pkg_profiling.v200.60200.0.aarch64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v201.60200.0+0/GAP_pkg_profiling.v201.60200.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -25,7 +25,7 @@ os = "linux"
 
     [[GAP_pkg_profiling.download]]
     sha256 = "2617bea377894eff2036eb9ba4d2f6c761ae3b97fcfeb98d1fbb82543f7bbb03"
-    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.60200.0+0/GAP_pkg_profiling.v200.60200.0.aarch64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v201.60200.0+0/GAP_pkg_profiling.v201.60200.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -35,7 +35,7 @@ os = "linux"
 
     [[GAP_pkg_profiling.download]]
     sha256 = "002f4247910a52329233e5c31051f5a7aeffc91a8990127938ea944ed934e04a"
-    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.60200.0+0/GAP_pkg_profiling.v200.60200.0.aarch64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v201.60200.0+0/GAP_pkg_profiling.v201.60200.0.aarch64-linux-musl-cxx03.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -45,7 +45,7 @@ os = "linux"
 
     [[GAP_pkg_profiling.download]]
     sha256 = "1e652a3393f6232277c6ffac22217079e4925b845b5c5ac4c452eeedd301859b"
-    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.60200.0+0/GAP_pkg_profiling.v200.60200.0.aarch64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v201.60200.0+0/GAP_pkg_profiling.v201.60200.0.aarch64-linux-musl-cxx11.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -55,7 +55,7 @@ os = "linux"
 
     [[GAP_pkg_profiling.download]]
     sha256 = "d8ea7add1b42d196aafac0c17a6481861d92d0b1956ca53ee853c9977c275a22"
-    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.60200.0+0/GAP_pkg_profiling.v200.60200.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v201.60200.0+0/GAP_pkg_profiling.v201.60200.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -65,7 +65,7 @@ os = "linux"
 
     [[GAP_pkg_profiling.download]]
     sha256 = "c57f71dac8d26f4532e29c551c3d3b11dabb0d207870cab7dc3d508289b11208"
-    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.60200.0+0/GAP_pkg_profiling.v200.60200.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v201.60200.0+0/GAP_pkg_profiling.v201.60200.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "x86_64"
 git-tree-sha1 = "3f5ec155a1d4cb62e7a7026c72e5570a50ec11ab"
@@ -73,7 +73,7 @@ os = "macos"
 
     [[GAP_pkg_profiling.download]]
     sha256 = "a898663f30dbf3791ddced61df0e4e09c20dc54372574796ff917feeb917e91a"
-    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.60200.0+0/GAP_pkg_profiling.v200.60200.0.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v201.60200.0+0/GAP_pkg_profiling.v201.60200.0.x86_64-apple-darwin.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -83,7 +83,7 @@ os = "linux"
 
     [[GAP_pkg_profiling.download]]
     sha256 = "1c22d10f1468ff18d079b4d8be03f016153b92117153782fc15477a7a89e1fcd"
-    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.60200.0+0/GAP_pkg_profiling.v200.60200.0.x86_64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v201.60200.0+0/GAP_pkg_profiling.v201.60200.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -93,7 +93,7 @@ os = "linux"
 
     [[GAP_pkg_profiling.download]]
     sha256 = "068c2a69572d66414c899d1dddd0a48df455442e3d465dac2dc1f319411a8263"
-    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.60200.0+0/GAP_pkg_profiling.v200.60200.0.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v201.60200.0+0/GAP_pkg_profiling.v201.60200.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -103,7 +103,7 @@ os = "linux"
 
     [[GAP_pkg_profiling.download]]
     sha256 = "71899397260b7635d4c83e6999dc2d76e529848cf3c80a8e3e4726cab3d73927"
-    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.60200.0+0/GAP_pkg_profiling.v200.60200.0.x86_64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v201.60200.0+0/GAP_pkg_profiling.v201.60200.0.x86_64-linux-musl-cxx03.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -113,7 +113,7 @@ os = "linux"
 
     [[GAP_pkg_profiling.download]]
     sha256 = "be32d1ad9af886d15bd582d662104906c5b57b6c4f0505f696a676e027a2dc39"
-    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.60200.0+0/GAP_pkg_profiling.v200.60200.0.x86_64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v201.60200.0+0/GAP_pkg_profiling.v201.60200.0.x86_64-linux-musl-cxx11.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "x86_64"
 git-tree-sha1 = "1821885a93b1d6570088e93d7f99682a52dbe587"
@@ -121,4 +121,4 @@ os = "freebsd"
 
     [[GAP_pkg_profiling.download]]
     sha256 = "9e00c059cb58a6941ec7090f1b4dd0bb00a414a8225e9908a9157685c3c93c8b"
-    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.60200.0+0/GAP_pkg_profiling.v200.60200.0.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/lgoettgens/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v201.60200.0+0/GAP_pkg_profiling.v201.60200.0.x86_64-unknown-freebsd.tar.gz"
